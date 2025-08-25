@@ -1,0 +1,64 @@
+body {
+    background-color: #f4f9ff;
+} 
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1.site-title {
+    width: 160px;
+}
+h1.site-title a {
+    display: block;
+}
+h1.site-title img {
+    width: 100%;
+    height: auto;
+}
+
+main {
+    display: block;
+}
+#mainvisual {}
+#mainvisual img {}
+
+/* section INDEX */
+#index {}
+
+.section-box {
+    width: 600px;
+}
+
+.section-title {}
+
+ol {}
+li {}
+
+/* section DETAIL */
+#detail {}
+
+.contents {
+    display: flex;             /* 横並びにする */
+    align-items: center;       /* 縦を中央揃えにする */
+    gap: 50px;                 /* 画像とテキストの間に余白 */
+}
+
+.section-box img {
+    width: 40%;
+}
+
+.text-box {}
+
+dl {}
+dt {}
+dd {}
+
+.text-box a {}
+
+
+/* footer */
+footer {
+
+}
