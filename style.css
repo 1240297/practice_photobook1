@@ -60,5 +60,7 @@ dd {}
 
 /* footer */
 footer {
-
+    text-align: center;
+    color: #999;
+    font-size: small;
 }
